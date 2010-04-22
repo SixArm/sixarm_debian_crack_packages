@@ -1,0 +1,10 @@
+Package: sixarm-debian-crack-packages
+Version: 1.0.2
+Section: devel
+Priority: optional
+Architecture: all
+Depends: aircrack-ng, crack, crack-common, crack-md5, cracklib-dev, cracklib-runtime, cracklib2, cracklib2-dev, fcrackzip, libcdk5libcdk5-devlibcrack2, libcrack2-dev, libdotconf1.0, libdotconf-dev, libgpg-error-dev, libgpgme11, libgpgme11-dev, libncursesw5, libncursesw5-dev, libpam-cracklib, libxml2, libxml2-dev, ophcrack, ophcrack-cli, pdfcrack, python-crack, python-cracklib, sipcrack, sucrack, zlib1g, zlib1g-dev
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: crack packages we like to use
+ crack packages we like to use together.
+
